@@ -1,5 +1,5 @@
 # SSN SCRIPT VPS SCRIPT 1.0 (INSTRUCTION)
-- Telegram : t.me/sshsedang
+- Auto Scripti Install Vps Pertalite By : Telegram : t.me/sshsedang
 
 # If Not User Root
 ```shell
