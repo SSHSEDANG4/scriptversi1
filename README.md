@@ -18,3 +18,7 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 7. AUTO DELETE EXPIRATE ACCOUNT <br>
 8. BACKUP DATA <br>
 9. AUTO REBOOT GMT +5 <br>
+
+# OS SUPPORT
+- Debian 10 <br>
+- Ubuntu 18-20
