@@ -1,4 +1,4 @@
-# SSH SEDANG NETWORK
+# SSH SEDANG NETWORK : VPS SCRIPT 1.0
 
 # Update 
 ```shell
