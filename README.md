@@ -21,10 +21,12 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 4. V2RAY <br>
 5. SQUID PROXY <br>
 6. TROJAN GFW <br>
-7. OPENVPN
-8. AUTO DELETE EXPIRATE ACCOUNT <br>
-9. BACKUP DATA <br>
-10. AUTO REBOOT GMT +5 <br>
+7. OPENVPN <br>
+8. SLOWDNS <br>
+9. SHADOWSOCKS & SHADOWSOCKSR <br>
+10. AUTO DELETE EXPIRATE ACCOUNT <br>
+11. BACKUP DATA <br>
+12. AUTO REBOOT GMT +5 <br>
 
 # OS SUPPORT
 - Debian 10 <br>
