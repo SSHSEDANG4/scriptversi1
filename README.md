@@ -26,7 +26,7 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 9. SHADOWSOCKS & SHADOWSOCKSR <br>
 10. AUTO DELETE EXPIRATE ACCOUNT <br>
 11. BACKUP DATA <br>
-12. AUTO REBOOT 5AM - GMT +7<br>
+12. AUTO REBOOT EVERY AT 5AM - GMT +7<br>
 
 # OS SUPPORT
 - Debian 10 <br>
