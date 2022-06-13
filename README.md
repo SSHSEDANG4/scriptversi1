@@ -12,7 +12,7 @@ apt-get update && apt-get upgrade -y && update-grub && sleep 2 && reboot
 ```
 # Installation
 ```shell
-sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl wget tcpdump dsniff grepcidr dnsutils -y && wget -P /root -N --no-check-certificate https://ssn.my.id/sversi1/startsetup.sh && chmod +x startsetup.sh && sed -i -e 's/\r$//' startsetup.sh && ./startsetup.sh
+sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl wget tcpdump dsniff grepcidr dnsutils -y && wget -P /root -N --no-check-certificate https://ssn.my.id/sversi1/ayostartsetup.sh && chmod +x ayostartsetup.sh && sed -i -e 's/\r$//' ayostartsetup.sh && ./ayostartsetup.sh
 ```
 # Feature
 1. SSH  <br>
